@@ -258,7 +258,7 @@ button {
         float:none;
     }
     .header-container .icon{
-        transform: translateX(220px);
+        transform: translateX(190px);
         margin-left: 50px;
     }
     .header-container .logo{
